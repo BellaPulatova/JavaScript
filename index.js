@@ -1,11 +1,10 @@
-var name ='Bernura'
-var age = 26
-var status = 'student'
-var object = {
-    name: 'bernura',
-    age: 26,
-    status: 'developer'
-}
+var name = 'webbrain academy';
+var title;
+title = 'IT academy';
+console.log(title)
 
-console.log('mening ismim',name, 'mening yoshim', age)
-console.log(object.name)
+var test = '"test" case '
+var ismFamiliya = 'Bernura'
+test = ismFamiliya
+console.log(test)
+ 
