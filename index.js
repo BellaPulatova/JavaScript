@@ -1,11 +1,7 @@
-var a = 5;
-var b = 1;
-var c = a + b
+var text = 'Web "brain" academy'
 
-a = a + 10;
-a += 10
+var name = 'bernura'
+var text2 = `Web 'brain' academy \t ${name} bu mening ismim`
 
-
-
-console.log(a)
+console.log (text2.replace( /web/i, 'Khan' ))
  
