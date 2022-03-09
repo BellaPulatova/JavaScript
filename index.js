@@ -1,10 +1,11 @@
-var name = 'webbrain academy';
-var title;
-title = 'IT academy';
-console.log(title)
+var a = 5;
+var b = 1;
+var c = a + b
 
-var test = '"test" case '
-var ismFamiliya = 'Bernura'
-test = ismFamiliya
-console.log(test)
+a = a + 10;
+a += 10
+
+
+
+console.log(a)
  
