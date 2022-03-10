@@ -1,7 +1,6 @@
-var text = 'Web "brain" academy'
+var arr = ['webrain', 1, 'logo']
 
-var name = 'bernura'
-var text2 = `Web 'brain' academy \t ${name} bu mening ismim`
+arr.push('push')
+arr.unshift('birinchi')
 
-console.log (text2.replace( /web/i, 'Khan' ))
- 
+console.log(arr)
