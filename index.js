@@ -42,3 +42,15 @@ function sum(a,b){
 sum (4,5)
 sum (5,4)
 
+console.log(2+2)
+var number = 10
+
+const obj = {
+    name: 'WebBrian',
+    surname: 'Academy',
+    status: 'IT',
+    };
+    Object.values(obj).map(([value, key], index) => {
+    console.log(value);
+    });
+    
